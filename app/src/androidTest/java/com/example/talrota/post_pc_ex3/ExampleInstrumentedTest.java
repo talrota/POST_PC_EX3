@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.talrota.post_pc_ex3", appContext.getPackageName());
+        assertEquals("al2036.multithreads", appContext.getPackageName());
     }
 }
